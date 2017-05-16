@@ -1,3 +1,8 @@
 git config --global user.name 'Hamou Benmemsoudi'
 git config --global user.email 'hbenmemsoudi@yahoo.ca'
 
+
+git commit -m "my comment"
+
+
+
